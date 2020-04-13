@@ -1,7 +1,11 @@
 package com.book.pojo;
 
 import java.util.Date;
-
+/**
+ * 订单系统的操作层
+ * @author wang
+ * @创建时间 
+ */
 public class BookOrders {
 
 	private String oid;
